@@ -1,7 +1,7 @@
 # mdbSocials
 
 ## Description
-Hi! This is my second project that I've made for Mobile Developers of Berkeley. This project is a Pokedex, where users can search from all of the Pokemon! It consists of 3 screens, you can see the total number of Pokemon, click on each to view their description, and also filter from the Pokemon list. I had lots of fun making this project, but in the future I would definitely try to condense some of the code I wrote for the advanced filtering. Furthermore, I managed to follow the model of MVC this time, so I definitely would like to see improvement in the future!
+Hi! This is my third project that I've made for Mobile Developers of Berkeley, along with my partner Maggie Yi. This project is called mdbSocials, where users can look at all the social events created by MDB members, and notify if they're interested! It consists of 5 screens, where you can login, signup, look at events, create an event, and view an event page. We had lots of fun making this project, but in the future we would definitely try to condense some of the code I wrote for the advanced filtering. Furthermore, I managed to follow the model of MVC this time, so I definitely would like to see improvement in the future!
 
 ## Screen 1
 ![picture](screen1.png)
